@@ -1,0 +1,14 @@
+.welcome{
+    grid-template-rows: 20vh 30vh;
+    background-image: url(https://i1.wp.com/wittyvows.com/wp-content/uploads/2016/12/Kishwar-merchants-bridesmaids-photo-shoot.jpg?resize=500%2C504);
+    background-position: center;
+}
+.wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+    color: white;
+    text-shadow: 0 2px  black;
+}
